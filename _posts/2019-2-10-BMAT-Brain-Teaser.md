@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BMAT Brain Teaser: Finding the last digit of a 6-digit PIN
+title: BMAT Brain Teaser&#58; Finding the last digit of a 6-digit PIN
 tags: bmat pin banking unique
 ---
 
